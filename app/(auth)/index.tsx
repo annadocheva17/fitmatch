@@ -26,7 +26,7 @@ export default function WelcomeScreen() {
         <View style={styles.overlay}>
           <View style={styles.content}>
             <View style={styles.header}>
-              <Text style={styles.title}>FitConnect</Text>
+              <Text style={styles.title}>FitMatch</Text>
               <Text style={styles.subtitle}>Find your perfect workout partner</Text>
             </View>
             
